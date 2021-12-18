@@ -21,3 +21,6 @@
 
 - **Desafio 05** | Sonda
     - implementar um algoritmo de Machine Learning para classificação binária, capaz de identificar se um cliente será perdido ou não.
+
+- **Desafio 06** | 
+    - 
