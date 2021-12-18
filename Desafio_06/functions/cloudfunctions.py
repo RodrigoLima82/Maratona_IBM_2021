@@ -1,3 +1,10 @@
+# MARATONA BEHIND THE CODE 2021
+
+# DESAFIO 6: FINAL
+
+# Autor: Rodrigo Oliveira
+# LinkedIn: https://www.linkedin.com/in/rodrigolima82/
+
 import json
 import sys
 import requests
