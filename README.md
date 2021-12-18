@@ -22,5 +22,5 @@
 - **Desafio 05** | Sonda
     - implementar um algoritmo de Machine Learning para classificação binária, capaz de identificar se um cliente será perdido ou não.
 
-- **Desafio 06** | 
-    - 
+- **Desafio 06** | Final
+    - O objetivo do desafio é criar um assistente virtual para auxílio na agricultura do município de Ribeirão Preto, que deve trazer informações para auxiliar os agricultores em seus trabalhos.
