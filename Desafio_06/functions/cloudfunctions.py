@@ -37,12 +37,12 @@ def main(dict):
         agricultura = requestAgricultura('soybeans')    
         evapoSoybeans = "Evapotranspiração da próxima hora para o cultivo de soja: " + str(agricultura['forecasts1Hour']['evapotranspirationCrop'][0])
         
-        return { 'temperaturas': temperaturas, 
-                 'velVento': velVento, 
-                 'dirVento': dirVento, 
-                 'evapoCoffee': evapoCoffee, 
-                 'evapoCorn': evapoCorn, 
-                 'evapoSoybeans': evapoSoybeans} 
+        result = {  'temperaturas': temperaturas, 
+                    'velVento': velVento, 
+                    'dirVento': dirVento, 
+                    'evapoCoffee': evapoCoffee, 
+                    'evapoCorn': evapoCorn, 
+                    'evapoSoybeans': evapoSoybeans } 
     except:
         result = []
         
